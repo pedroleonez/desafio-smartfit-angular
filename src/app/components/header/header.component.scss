@@ -34,11 +34,11 @@ header .text-container {
 
 header .text-container h1 {
     font-size: 38px;
-    color: var(--dark-gray);
+    color: var(--darker-gray);
 }
 
 header .text-container p {
-    color: var(--light-gray);
+    color: var(--dark-gray);
 }
 
 header .text-container .heading {
@@ -54,5 +54,5 @@ header .text-container .heading {
 header .text-container .heading .heading-border {
     height: 8px;
     width: 35%;
-    background-color: var(--dark-grey);
+    background-color: var(--darker-gray);
 }
